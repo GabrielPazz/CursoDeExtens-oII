@@ -3,8 +3,7 @@
   <head>
     <title>Meu primeiro projeto</title>
   </head>
-  <body><h1>Meu primeiro projeto<h1><br>
-</body>
+  <body><h1>Meu primeiro projeto</h1><br>
   Aqui vai o texto!
-</body>
+  </body>
 </html>
